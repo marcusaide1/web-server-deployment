@@ -1,3 +1,4 @@
+![landing page](https://github.com/user-attachments/assets/a7e188dd-3814-49be-a094-82cd5f6b9075)
 Cloud Provider:** AWS (EC2 Ubuntu 22.04)
 Web Server:** Nginx
 Domain:** Namecheap domain (`marcusaide.online`)
